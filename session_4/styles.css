@@ -1,0 +1,13 @@
+body {
+  color: snow;
+}
+header {
+  color: teal;
+}
+article {
+  background-color: honeydew;
+}
+h3,
+h4 {
+  color: cadetblue;
+}

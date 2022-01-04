@@ -1,0 +1,14 @@
+.parent {
+  padding: 1rem;
+  background-color: bisque;
+}
+
+.child {
+  min-width: 8rem;
+  margin-bottom: 1.5rem;
+}
+@media screen and (min-width: 768px) {
+  .parent {
+    display: flex;
+  }
+}
